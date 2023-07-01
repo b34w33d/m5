@@ -3,6 +3,7 @@ from m5ui import *
 from uiflow import *
 from ntptime import client as NTPClient
 from easyIO import *
+from brightness import *
 import wifi
 
 wifi.connect()
