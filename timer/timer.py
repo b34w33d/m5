@@ -1,6 +1,7 @@
 from m5stack import *
 from m5ui import *
 from uiflow import *
+from brightness import *
 import time
 
 class Timer:
